@@ -84,7 +84,7 @@ Aquí presento algunas de las soluciones que he diseñado e implementado, enfoca
 Estoy abierto a colaboraciones y oportunidades de consultoría donde mis habilidades en desarrollo y administración de sistemas puedan aportar valor.
 
 <p align="center">
-  <a href="mailto:tu-correo@aqui.com">
+  <a href="mailto:danielsotomayor475@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="TU_LINK_DE_LINKEDIN_AQUI">
